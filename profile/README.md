@@ -9,3 +9,4 @@ Rebuild Ant Design packages for modern browsers (Chrome 86+) and reduce bundle s
 | rc-util | ![](https://img.shields.io/bundlephobia/minzip/rc-util) | rc-util-modern | ![](https://img.shields.io/bundlephobia/minzip/rc-util-modern) |
 | rc-resize-observer | ![](https://img.shields.io/bundlephobia/minzip/rc-resize-observer) | rc-resize-observer-modern | ![](https://img.shields.io/bundlephobia/minzip/rc-resize-observer-modern) |
 | @ant-design/react-slick | ![](https://img.shields.io/bundlephobia/minzip/@ant-design/react-slick) | rc-slick-modern | ![](https://img.shields.io/bundlephobia/minzip/rc-slick-modern) |
+| @react-component/portal | ![](https://img.shields.io/bundlephobia/minzip/@react-component/portal) | rc-portal-modern | ![](https://img.shields.io/bundlephobia/minzip/rc-portal-modern) |
