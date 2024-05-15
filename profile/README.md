@@ -16,3 +16,4 @@ Rebuild Ant Design packages for modern browsers (Chrome 86+) and reduce bundle s
 | rc-select | ![](https://img.shields.io/bundlephobia/minzip/rc-select) | rc-select-modern | ![](https://img.shields.io/bundlephobia/minzip/rc-select-modern) |
 | rc-menu | ![](https://img.shields.io/bundlephobia/minzip/rc-menu) | rc-menu-modern | ![](https://img.shields.io/bundlephobia/minzip/rc-menu-modern) |
 | rc-tree | ![](https://img.shields.io/bundlephobia/minzip/rc-tree) | rc-tree-modern | ![](https://img.shields.io/bundlephobia/minzip/rc-tree-modern) |
+| rc-tree-select | ![](https://img.shields.io/bundlephobia/minzip/rc-tree-select) | rc-tree-select-modern | ![](https://img.shields.io/bundlephobia/minzip/rc-tree-select-modern) |
