@@ -19,4 +19,4 @@ Rebuild Ant Design packages for modern browsers (Chrome 86+) and reduce bundle s
 | rc-tree-select | ![](https://img.shields.io/bundlephobia/minzip/rc-tree-select) | rc-tree-select-modern | ![](https://img.shields.io/bundlephobia/minzip/rc-tree-select-modern) |
 | @rc-component/context | ![](https://img.shields.io/bundlephobia/minzip/@rc-component/context) | rc-context-modern | ![](https://img.shields.io/bundlephobia/minzip/rc-context-modern) |
 | rc-table | ![](https://img.shields.io/bundlephobia/minzip/rc-table) | rc-table-modern | ![](https://img.shields.io/bundlephobia/minzip/rc-table-modern) |
-| rc-pciker | ![](https://img.shields.io/bundlephobia/minzip/rc-pciker) | rc-pciker-modern | ![](https://img.shields.io/bundlephobia/minzip/rc-pciker-modern) |
+| rc-picker | ![](https://img.shields.io/bundlephobia/minzip/rc-picker) | rc-picker-modern | ![](https://img.shields.io/bundlephobia/minzip/rc-picker-modern) |
