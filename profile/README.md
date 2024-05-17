@@ -24,3 +24,4 @@ Rebuild Ant Design packages for modern browsers (Chrome 86+) and reduce bundle s
 | rc-field-form | ![](https://img.shields.io/bundlephobia/minzip/rc-field-form) | rc-field-form-modern | ![](https://img.shields.io/bundlephobia/minzip/rc-field-form-modern) |
 | rc-cascader | ![](https://img.shields.io/bundlephobia/minzip/rc-cascader) | rc-cascader-modern | ![](https://img.shields.io/bundlephobia/minzip/rc-cascader-modern) |
 | rc-checkbox | ![](https://img.shields.io/bundlephobia/minzip/rc-checkbox) | rc-checkbox-modern | ![](https://img.shields.io/bundlephobia/minzip/rc-checkbox-modern) |
+| rc-collapse | ![](https://img.shields.io/bundlephobia/minzip/rc-collapse) | rc-collapse-modern | ![](https://img.shields.io/bundlephobia/minzip/rc-collapse-modern) |
