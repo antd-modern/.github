@@ -20,3 +20,4 @@ Rebuild Ant Design packages for modern browsers (Chrome 86+) and reduce bundle s
 | @rc-component/context | ![](https://img.shields.io/bundlephobia/minzip/@rc-component/context) | rc-context-modern | ![](https://img.shields.io/bundlephobia/minzip/rc-context-modern) |
 | rc-table | ![](https://img.shields.io/bundlephobia/minzip/rc-table) | rc-table-modern | ![](https://img.shields.io/bundlephobia/minzip/rc-table-modern) |
 | rc-picker | ![](https://img.shields.io/bundlephobia/minzip/rc-picker) | rc-picker-modern | ![](https://img.shields.io/bundlephobia/minzip/rc-picker-modern) |
+| @rc-component/async-validator | ![](https://img.shields.io/bundlephobia/minzip/@rc-component/async-validator) | rc-async-validator-modern | ![](https://img.shields.io/bundlephobia/minzip/rc-async-validator-modern) |
